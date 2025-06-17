@@ -1,50 +1,20 @@
-# Welcome to your Expo app 👋
+Essa é uma prévia do Geno Track, um app que criei em React Native (com Expo Go) para um trabalho acadêmico de uma amiga da área da saúde.
+A proposta é simples, mas cheia de significado: oferecer uma interface amigável para usuários acessarem resultados de exames genéticos, entenderem melhor os dados por meio da opção "Saiba mais" e ainda entrarem em contato com seu geneticista de forma rápida e intuitiva.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+🛠️ Tecnologias usadas:
+TypeScript com TSX
+React Native
+Expo Go
 
-## Get started
+Funcionalidades:
+ 🔐 Tela de Login e Cadastro
+ 👋 Tela de Boas-vindas com opções:
+ 📊 Ver resultados de exames
+ ℹ️ Saiba mais
+ 📞 Contate seu geneticista
 
-1. Install dependencies
+Foi uma experiência muito bacana colocar em prática meus conhecimentos em front-end e contribuir com um projeto com impacto real. 💡
+![1749248108602](https://github.com/user-attachments/assets/3407a66f-ed93-4161-9d3d-16bb2c51d99b)
+![1749248108532](https://github.com/user-attachments/assets/c5eacf15-0b19-45db-a8f0-f62e70741db2)
+![1749248108709](https://github.com/user-attachments/assets/b75cdbc3-b0ea-44c0-8dc9-d3162bcd843e)
 
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
